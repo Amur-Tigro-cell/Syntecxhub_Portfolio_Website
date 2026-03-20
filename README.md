@@ -4,7 +4,7 @@ Welcome to my cyberpunk-themed portfolio website! This project showcases my skil
 
 ## 🚀 Live Demo
 
-[Portfolio Website Link](https://your-portfolio-url.com) *(Update with your deployed URL)*
+[Portfolio Website Link](https://amur-tigro-cell.github.io/Syntecxhub_Portfolio_Website/)
 
 ## 🛠️ Technologies Used
 
